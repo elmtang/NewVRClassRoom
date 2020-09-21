@@ -1,0 +1,4 @@
+#Mon Sep 21 14:16:37 EDT 2020
+base.0=/home/luden/Documents/GitHub/NewVRClassRoom/Temp/gradleOut/launcher/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
